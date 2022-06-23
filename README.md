@@ -1,6 +1,6 @@
 # K-means-Clustering
-K-Means Clustering using R (Manual Algorithm)
-This file has Manual Algorithm for K-Means Clustering.
+K-Means Clustering using R (Manual Algorithm)\n
+This file has Manual Algorithm for K-Means Clustering./n
 Here we have to enter data in Matrix and provide initial seeds from support of Data.
 Note: Distance matrix is calculated from Manhattan Distance function, however we can change it by introducing new R funtion for desired distance function.
 At last we get centroid for final clusters.
